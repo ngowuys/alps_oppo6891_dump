@@ -1,0 +1,8 @@
+<oplus-config>
+   <!-- Guofu.Yang@ANDROID.WMS.2458273, 2020/08/13, Add for app resolution switch -->
+   <oplus-feature name="oplus.software.app_resolution_switch" />
+   <!-- Li.Chao@ANDROID.face, 2021/4/12, Add for face unlock -->
+   <oplus-feature name="oplus.software.face_nopowerblock" />
+   <!-- steve.shen@OPTI, 2021/03/12, Add for animation scroll opt -->
+   <oplus-feature name="oplus.software.scroll.animation_opt" />
+</oplus-config>
